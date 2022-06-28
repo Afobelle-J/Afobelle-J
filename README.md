@@ -1,4 +1,4 @@
-https://github.com/Afobelle-J/Afobelle-J
+https://afobelle-j.github.io/Afobelle-J/
 
 - 👋 Hi, I’m @Afobelle-J
 - 👀 I’m interested in programming...
